@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-14T18:59:52 IST" name="Default suite" finished-at="2023-12-14T18:59:57 IST" duration-ms="4561">
+    <groups>
+    </groups>
+    <test started-at="2023-12-14T18:59:52 IST" name="Default test" finished-at="2023-12-14T18:59:57 IST" duration-ms="4561">
+      <class name="com.ecom.testcases.CompareExcelData">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecom.testcases.CompareExcelData@75d3a5e0]" started-at="2023-12-14T18:59:52 IST" name="setUp" finished-at="2023-12-14T18:59:52 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Create_Inventry()[pri:1, instance:com.ecom.testcases.CompareExcelData@75d3a5e0]" started-at="2023-12-14T18:59:52 IST" name="Create_Inventry" finished-at="2023-12-14T18:59:57 IST" duration-ms="4464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_Inventry -->
+      </class> <!-- com.ecom.testcases.CompareExcelData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
